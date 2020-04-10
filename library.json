@@ -21,5 +21,11 @@
       "include/*",
       "src/*"
     ]
-  }
+  },
+  "dependencies": [
+    {
+      "name": "tiny",
+      "version": "^2.0.0"
+    }
+  ]
 }
