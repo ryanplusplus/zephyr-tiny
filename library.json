@@ -1,0 +1,25 @@
+{
+  "name": "zephyr-tiny",
+  "keywords": "tiny",
+  "description": "Zephyr implementations of tiny interfaces.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanplusplus/zephyr-tiny.git"
+  },
+  "authors": [
+    {
+      "name": "Ryan Hartlage",
+      "email": "ryanplusplus@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "Zephyr",
+  "platforms": "*",
+  "export": {
+    "include": [
+      "include/*",
+      "src/*"
+    ]
+  }
+}
