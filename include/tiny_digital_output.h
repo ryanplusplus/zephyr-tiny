@@ -1,6 +1,6 @@
 /*!
  * @file
- * @brief Wraps an Arduino digital output.
+ * @brief Wraps an Zephyr digital output.
  */
 
 #ifndef tiny_digital_output_h
